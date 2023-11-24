@@ -1,2 +1,2 @@
-# repo-exercise minor update!
+# repo-exercise
 Practice account for learning git
